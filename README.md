@@ -18,7 +18,7 @@ To install simply fork the repo, and clone down to your local machine. Then in t
 
 ## Usage
 
-To use the package run 'npm start' which will use webpack to build the dist folder and start the server.
+The package is intended to help user find books and save books relative to their intrests. To search for a book simply enter in the title of the book. To save a book to your saved books list, login or sign up. Once signed up you can simply search for a book and below the books description will be a option to save the book. If you wish to remove this book from your saved books list, there will be an option to remove a saved book.
 ## License 
 
 please refer to the license in the repo.
@@ -28,8 +28,8 @@ please refer to the license in the repo.
 How to contribute?: fork the repo and clone down to your local machine. Once you have the latest version of the repo you can add or make changes then submit a pull request for your changes.
 
 ## ScreenShot
-![ScreenShot](https://github.com/eddieg00/the-final-pwa/blob/main/assets/Screenshot%20(35).png)
+
 
 ## Link
 
-https://the-final-pwa.herokuapp.com/
+
